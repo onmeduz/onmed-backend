@@ -1,0 +1,6 @@
+@Onmed.WebApi_HostAddress = http://localhost:5219
+
+GET {{Onmed.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
